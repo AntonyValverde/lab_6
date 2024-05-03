@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "109392965339",
+    "firebase_url": "https://lab6-e3b70-default-rtdb.firebaseio.com",
+    "project_id": "lab6-e3b70",
+    "storage_bucket": "lab6-e3b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109392965339:android:0889496ead9c41cbc926fe",
+        "android_client_info": {
+          "package_name": "com.example.smart_admin_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEZjq3_s1vt8yjEuVYJ71LJoFPFn7D1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
